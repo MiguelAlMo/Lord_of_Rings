@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lord_of_Rings</string>
+    <string name="frodo">Frodo</string>
+    <string name="hobbit">Hobbit</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="goods">Goods</string>
+    <string name="all">All</string>
+    <string name="villains">Villains</string>
+    <string name="todos">Todos</string>
+    <string name="villanos">Villanos</string>
+    <string name="buenos">Buenos</string>
+    <string name="by_miguelalmo">by: miguelalmo</string>
+</resources>

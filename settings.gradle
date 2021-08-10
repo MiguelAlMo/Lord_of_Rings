@@ -1,0 +1,2 @@
+rootProject.name = "Lord_of_Rings"
+include ':app'
